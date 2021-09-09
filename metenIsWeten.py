@@ -6,3 +6,6 @@ if a > b:
 elif a < b:
     min = b
     print("a is het kleinste getal:" , min)
+else:
+    if a == b:
+        print("a en b zijn even groot")
